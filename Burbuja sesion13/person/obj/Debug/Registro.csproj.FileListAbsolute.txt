@@ -1,0 +1,10 @@
+C:\Users\dxand\OneDrive\Escritorio\Sesion 13\Burbuja sesion13\person\bin\Debug\person.exe.config
+C:\Users\dxand\OneDrive\Escritorio\Sesion 13\Burbuja sesion13\person\bin\Debug\person.exe
+C:\Users\dxand\OneDrive\Escritorio\Sesion 13\Burbuja sesion13\person\bin\Debug\person.pdb
+C:\Users\dxand\OneDrive\Escritorio\Sesion 13\Burbuja sesion13\person\obj\Debug\Registro.csproj.AssemblyReference.cache
+C:\Users\dxand\OneDrive\Escritorio\Sesion 13\Burbuja sesion13\person\obj\Debug\person.Form1.resources
+C:\Users\dxand\OneDrive\Escritorio\Sesion 13\Burbuja sesion13\person\obj\Debug\person.Properties.Resources.resources
+C:\Users\dxand\OneDrive\Escritorio\Sesion 13\Burbuja sesion13\person\obj\Debug\Registro.csproj.GenerateResource.cache
+C:\Users\dxand\OneDrive\Escritorio\Sesion 13\Burbuja sesion13\person\obj\Debug\Registro.csproj.CoreCompileInputs.cache
+C:\Users\dxand\OneDrive\Escritorio\Sesion 13\Burbuja sesion13\person\obj\Debug\person.exe
+C:\Users\dxand\OneDrive\Escritorio\Sesion 13\Burbuja sesion13\person\obj\Debug\person.pdb
